@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MXnrTeNQxlTrArdckfq6yZp09VepdvOk20ql0wUxI48/4lduK4RwcoyW7lw/c0iA7xfpNE+r0vlqJQnNOCrqAw==",
+  "dgSpecHash": "21Gui+o9SxgWPWdM9FDR5z760XFAuzyIO+er1HboCEBjzcUvV/TAZB8Cn/KlP58xPPKq/IqxvVu35T2tolssGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DAD\\Desktop\\dotnet\\BreakfastMaker\\BreakfastMaker.Contracts\\BreakfastMaker.Contracts.csproj",
+  "projectFilePath": "C:\\Users\\OMAR\\Desktop\\CRUD\\Simple-CRUD-API-.net-6\\BreakfastMaker.Contracts\\BreakfastMaker.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

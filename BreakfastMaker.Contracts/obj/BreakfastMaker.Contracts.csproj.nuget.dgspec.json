@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DAD\\Desktop\\dotnet\\BreakfastMaker\\BreakfastMaker.Contracts\\BreakfastMaker.Contracts.csproj": {}
+    "C:\\Users\\OMAR\\Desktop\\CRUD\\Simple-CRUD-API-.net-6\\BreakfastMaker.Contracts\\BreakfastMaker.Contracts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DAD\\Desktop\\dotnet\\BreakfastMaker\\BreakfastMaker.Contracts\\BreakfastMaker.Contracts.csproj": {
+    "C:\\Users\\OMAR\\Desktop\\CRUD\\Simple-CRUD-API-.net-6\\BreakfastMaker.Contracts\\BreakfastMaker.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DAD\\Desktop\\dotnet\\BreakfastMaker\\BreakfastMaker.Contracts\\BreakfastMaker.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\OMAR\\Desktop\\CRUD\\Simple-CRUD-API-.net-6\\BreakfastMaker.Contracts\\BreakfastMaker.Contracts.csproj",
         "projectName": "BreakfastMaker.Contracts",
-        "projectPath": "C:\\Users\\DAD\\Desktop\\dotnet\\BreakfastMaker\\BreakfastMaker.Contracts\\BreakfastMaker.Contracts.csproj",
-        "packagesPath": "C:\\Users\\DAD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DAD\\Desktop\\dotnet\\BreakfastMaker\\BreakfastMaker.Contracts\\obj\\",
+        "projectPath": "C:\\Users\\OMAR\\Desktop\\CRUD\\Simple-CRUD-API-.net-6\\BreakfastMaker.Contracts\\BreakfastMaker.Contracts.csproj",
+        "packagesPath": "C:\\Users\\OMAR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\OMAR\\Desktop\\CRUD\\Simple-CRUD-API-.net-6\\BreakfastMaker.Contracts\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\DAD\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\OMAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,8 +48,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -53,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
